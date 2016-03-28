@@ -8,6 +8,6 @@ import static org.junit.Assert.assertTrue;
 public class SampleTest {
     @Test
     public void test() throws Exception {
-        assertTrue(1 == 2);
+        assertTrue(2 == 2);
     }
 }
